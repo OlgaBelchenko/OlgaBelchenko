@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @OlgaBelchenko
-- ☕ I’m currently learning Java
+- ☕ I’m currently learning Android programming with Kotlin
