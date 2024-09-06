@@ -3,9 +3,9 @@
 Я <b>Ольга Бельченко</b>, разработчик на Java.
 
 
-### Мой стек
+### Мой стек:
 
-Java, SpringCore, Maven, Gradle, PostgreSQL, MySQL, Hibernate, JUnit, Mockito, Git, Docker, Docker Compose, Linux, Windows
+Java, Spring, Maven, Gradle, PostgreSQL, MySQL, Hibernate, JUnit, Mockito, Git, Docker, Docker Compose, Linux, Windows
 
 
 ### Мои учебные проекты в Нетологии, Направление «Программирование», курс «Java-разработчик»:
