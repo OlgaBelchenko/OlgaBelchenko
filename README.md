@@ -8,14 +8,12 @@
 Java, Spring, Maven, Gradle, PostgreSQL, MySQL, Hibernate, JUnit, Mockito, Git, Docker, Docker Compose, Linux, Windows
 
 
-### Мои учебные проекты в Нетологии
-#### Направление «Программирование», курс «Java-разработчик»:
+### Мои учебные проекты
 
-
-- [Дипломная работа: Облачное хранилище](https://github.com/OlgaBelchenko/cloud-service)
+- [Облачное хранилище](https://github.com/OlgaBelchenko/cloud-service)
  
 
-- [Курсовая работа: Сервис перевода денег](https://github.com/OlgaBelchenko/money-transfer-service.git)
+- [Сервис перевода денег](https://github.com/OlgaBelchenko/money-transfer-service.git)
  
 
-- [Курсовая работа: Сетевой чат](https://github.com/OlgaBelchenko/command-line-chat.git)
+- [Сетевой чат](https://github.com/OlgaBelchenko/command-line-chat.git)
